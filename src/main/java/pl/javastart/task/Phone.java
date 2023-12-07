@@ -7,6 +7,7 @@ public class Phone {
         this.colour = colour;
         this.weight = weight;
     }
+
     String model;
     String manufacturer;
     String colour;
